@@ -1,0 +1,1 @@
+# FAQ_accordion_frontendmentor_HTML-CSS-JS
